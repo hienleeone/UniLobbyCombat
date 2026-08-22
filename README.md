@@ -138,6 +138,6 @@ Tăng tính kịch tính cho các trận solo tại sảnh với 2 kỹ năng đ
 
 **UniLobbyCombat — Nâng Tầm Trải Nghiệm Đấu Trường Sảnh Cho Máy Chủ Của Bạn!**
 
-*Được phát triển bởi **hienleeone** cho hệ thống UniSky Network.*
+*Được phát triển bởi **hienleeone** cho hệ thống UniMC Network.*
 
 </div>
